@@ -1,0 +1,32 @@
+Our Products
+
+Garand-101 Magnetometer-Gradiometer
+
+The Garand-101 is our flagship magnetometer-gradiometer system, designed for high-precision magnetic field measurements. This advanced instrument combines cutting-edge sensor technology with robust field deployment capabilities.
+
+Key Features:
+- High sensitivity magnetic field detection
+- Dual-sensor gradiometer configuration
+- Portable and field-ready design
+- Real-time data acquisition and processing
+- Advanced noise filtering and signal processing
+- Durable construction for harsh environments
+- User-friendly interface and software
+
+Applications:
+- Mineral exploration and mining
+- Archaeological surveys
+- Environmental monitoring
+- Geological mapping
+- Pipeline and infrastructure inspection
+- Unexploded ordnance detection
+
+Technical Specifications:
+- Measurement range: ±100,000 nT
+- Resolution: 0.1 nT
+- Sampling rate: Up to 20 Hz
+- Operating temperature: -20°C to +50°C
+- Power supply: Rechargeable battery pack
+- Data storage: Internal memory + external storage options
+
+Contact us for detailed specifications and custom configurations.
